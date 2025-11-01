@@ -2,10 +2,10 @@
 UART Taschenrechner_Prototype
 
 Funktionen:
-Eingabe einer Rechnung (z. B. „12 + 5“)
-Unterstützung der Operatoren +, -, *, /
-Fehlerbehandlung bei Division durch Null
-Speicherung der gültigen Berechnungen in calc_log.txt
+- Eingabe einer Rechnung (z. B. „12 + 5“)
+- Unterstützung der Operatoren +, -, *, /
+- Fehlerbehandlung bei Division durch Null
+- Speicherung der gültigen Berechnungen in calc_log.txt
 
 Kompilierung:
 gcc step1_calc.c -o step1_calc.exe
@@ -19,6 +19,6 @@ Dateien:
 - Phase2_Report.pdf – Projektdokumentation
 
 Autor:
-Omar Abdelrahman
-Matrikelnummer: 92123227
-Kurs: DLBROEPRS01_D
+- Omar Abdelrahman
+- Matrikelnummer: 92123227
+- Kurs: DLBROEPRS01_D
